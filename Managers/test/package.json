@@ -1,0 +1,16 @@
+{
+  "name": "test-yarn",
+  "version": "1.0.0",
+  "description": "test app",
+  "main": "index.js",
+  "repository": "https://github.com/Heliotropes/Test-yarn.git",
+  "author": "Vlad",
+  "license": "MIT",
+  "dependencies": {
+    "koa": "^2.16.0"
+  },
+  "devDependencies": {
+    
+    "eslint": "^9.22.0"
+  }
+}
